@@ -1,0 +1,4 @@
+Part 2
+Question 8
+
+Write a program that can play the game of Kalah (http://en.wikipedia.org/wiki/Kalah) against a human opponent. The initial number of seeds is 30 for each player but they are allocated into houses randomly. Use Console to communicate board & moves.

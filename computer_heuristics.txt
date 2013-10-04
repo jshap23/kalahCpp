@@ -1,0 +1,8 @@
+Q8 - AI
+The computer uses the following heuristics, in order, to move:
+
+1) Steal Pieces from Opponent
+2) Score and Go Again
+3) Prevent an Opponent Steal
+4) Maximize Number of Pieces on My Side
+5) Randomly select a Pit to Move
